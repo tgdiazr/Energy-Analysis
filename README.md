@@ -32,7 +32,7 @@ SQL queries for regional aggregates.
 
 -Visualization:
 
-Interactive maps (Plotly/Power Bi) showing renewable adoption.
+Interactive maps (Plotly) showing renewable adoption.
 
 Time-series plots of fossil fuel vs. renewable energy shares.
 
